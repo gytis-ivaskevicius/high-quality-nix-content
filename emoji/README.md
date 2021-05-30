@@ -1,14 +1,14 @@
-<img style="max-height: 300px;" src="angry-nix.gif"/>
-<img style="max-height: 300px;" src="angry-nix.png"/>
-<img style="max-height: 300px;" src="default.nix"/>
-<img style="max-height: 300px;" src="nix-chad.gif"/>
-<img style="max-height: 300px;" src="nix-shooting.png"/>
-<img style="max-height: 300px;" src="nixos-confetti.png"/>
-<img style="max-height: 300px;" src="nixos-pleading.png"/>
-<img style="max-height: 300px;" src="nixos-pure-by-design.png"/>
-<img style="max-height: 300px;" src="nixos-thumbsup.png"/>
-<img style="max-height: 300px;" src="pet-hot-nix.gif"/>
-<img style="max-height: 300px;" src="pet-nix.gif"/>
-<img style="max-height: 300px;" src="think-nixos.png"/>
-<img style="max-height: 300px;" src="parrot-nix.gif"/>
-<img style="max-height: 300px;" src="roo-nix.webp"/>
+<img height="300" src="angry-nix.gif"/>
+<img height="300" src="angry-nix.png"/>
+<img height="300" src="default.nix"/>
+<img height="300" src="nix-chad.gif"/>
+<img height="300" src="nix-shooting.png"/>
+<img height="300" src="nixos-confetti.png"/>
+<img height="300" src="nixos-pleading.png"/>
+<img height="300" src="nixos-pure-by-design.png"/>
+<img height="300" src="nixos-thumbsup.png"/>
+<img height="300" src="pet-hot-nix.gif"/>
+<img height="300" src="pet-nix.gif"/>
+<img height="300" src="think-nixos.png"/>
+<img height="300" src="parrot-nix.gif"/>
+<img height="300" src="roo-nix.webp"/>

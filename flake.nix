@@ -12,7 +12,7 @@
 
       pkgs = nixpkgs.legacyPackages.x86_64-linux;
 
-      emojiImgs = map (it: ''<img style="max-height: 300px;" src="${baseNameOf it.image}"/>'') emoji;
+      emojiImgs = map (it: ''<img height="300" src="${baseNameOf it.image}"/>'') emoji;
       emojiMd = pkgs.writeText "emoji-readme.md" (concatStringsSep "\n" emojiImgs);
     in
     {

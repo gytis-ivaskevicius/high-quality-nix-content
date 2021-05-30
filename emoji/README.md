@@ -1,0 +1,14 @@
+<img src="angry-nix.gif"/>
+<img src="angry-nix.png"/>
+<img src="default.nix"/>
+<img src="nix-chad.gif"/>
+<img src="nix-shooting.png"/>
+<img src="nixos-confetti.png"/>
+<img src="nixos-pleading.png"/>
+<img src="nixos-pure-by-design.png"/>
+<img src="nixos-thumbsup.png"/>
+<img src="pet-hot-nix.gif"/>
+<img src="pet-nix.gif"/>
+<img src="think-nixos.png"/>
+<img src="parrot-nix.gif"/>
+<img src="roo-nix.webp"/>

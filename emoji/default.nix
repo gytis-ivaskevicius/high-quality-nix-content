@@ -1,6 +1,6 @@
-{ owners }:
+{ creators }:
 
-with owners; [
+with creators; [
   { owner = mlvzk; image = ./angry-nix.gif; }
   { owner = mlvzk; image = ./angry-nix.png; }
   { owner = mlvzk; image = ./nix-chad.gif; }

@@ -1,6 +1,6 @@
-{ owners }:
+{ creators }:
 
-with owners; [
+with creators; [
   { owner = cirkku; image = ./anime-nix-pills-cover.png; }
   { owner = cirkku; image = ./cirno-holding-nix-sign.png; }
   { owner = cirkku; image = ./cirno-standing-on-balkony-nix-logo.png; }

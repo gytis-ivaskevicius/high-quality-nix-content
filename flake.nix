@@ -6,11 +6,12 @@
   outputs = { self, nixpkgs }:
     let
       inherit (builtins) baseNameOf concatStringsSep;
-      owners = import ./owners.nix;
-      emoji = import ./emoji { inherit owners; };
-      anime = import ./anime { inherit owners; };
-
       pkgs = nixpkgs.legacyPackages.x86_64-linux;
+      args = { creators = import ./creators.nix; };
+
+      emoji = import ./emoji args;
+      anime = import ./anime args;
+      memes = import ./memes args;
 
       mkMarkdown = size: images:
         pkgs.writeText "images.md"
@@ -19,6 +20,7 @@
 
       emojiMd = mkMarkdown 300 emoji;
       animeMd = mkMarkdown 700 anime;
+      memesMd = mkMarkdown 700 memes;
     in
     {
 
@@ -28,6 +30,7 @@
         cd $(git rev-parse --show-toplevel)
         cat ${emojiMd} > emoji/README.md
         cat ${animeMd} > anime/README.md
+        cat ${memesMd} > memes/README.md
       '';
 
 

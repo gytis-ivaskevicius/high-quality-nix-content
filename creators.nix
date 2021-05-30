@@ -13,6 +13,13 @@
     githubId = 81242398;
   };
 
+  unrooted = {
+    email = "konrad.root.klawikowski@gmail.com";
+    github = "unrooted";
+    name = "Konrad Klawikowsk";
+    githubId = 30440603;
+  };
+
   # Temp
   unknown = { };
 

@@ -3,7 +3,6 @@
 with owners; [
   { owner = mlvzk; image = ./angry-nix.gif; }
   { owner = mlvzk; image = ./angry-nix.png; }
-  { owner = mlvzk; image = ./default.nix; }
   { owner = mlvzk; image = ./nix-chad.gif; }
   { owner = mlvzk; image = ./nix-shooting.png; }
   { owner = mlvzk; image = ./nixos-confetti.png; }

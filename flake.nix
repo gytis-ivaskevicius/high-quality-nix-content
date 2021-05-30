@@ -12,15 +12,22 @@
 
       pkgs = nixpkgs.legacyPackages.x86_64-linux;
 
-      emojiImgs = map (it: ''<img height="300" src="${baseNameOf it.image}"/>'') emoji;
-      emojiMd = pkgs.writeText "emoji-readme.md" (concatStringsSep "\n" emojiImgs);
+      mkMarkdown = size: images:
+        pkgs.writeText "images.md"
+          (concatStringsSep "\n"
+            (map (it: ''<img height="${toString size}" src="${baseNameOf it.image}"/>'') images));
+
+      emojiMd = mkMarkdown 300 emoji;
+      animeMd = mkMarkdown 700 anime;
     in
     {
 
       images = { inherit emoji anime; };
 
       packages.x86_64-linux.build-markdown = pkgs.writeScriptBin "build-markdown" ''
+        cd $(git rev-parse --show-toplevel)
         cat ${emojiMd} > emoji/README.md
+        cat ${animeMd} > anime/README.md
       '';
 
 

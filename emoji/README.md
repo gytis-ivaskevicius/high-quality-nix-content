@@ -1,6 +1,5 @@
 <img height="300" src="angry-nix.gif"/>
 <img height="300" src="angry-nix.png"/>
-<img height="300" src="default.nix"/>
 <img height="300" src="nix-chad.gif"/>
 <img height="300" src="nix-shooting.png"/>
 <img height="300" src="nixos-confetti.png"/>

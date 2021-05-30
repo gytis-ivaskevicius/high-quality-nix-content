@@ -12,6 +12,9 @@ with creators; [
   { owner = cirkku; image = ./girl-holding-nix-manual.png; }
   { owner = cirkku; image = ./nixos-dominos.png; }
 
+  { owner = unrooted; image = ./girl-with-nix-shirt.png; }
+  { owner = unrooted; image = ./shirayuki-holding-nixos.png; }
+
   { owner = unknown; image = ./patch-santas-elfs.png; }
   { owner = unknown; image = ./purer-than-your-waifu.png; }
 ]

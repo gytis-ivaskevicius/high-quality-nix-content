@@ -8,5 +8,7 @@
 <img height="700" src="flandre-holds-nix-pills.png"/>
 <img height="700" src="girl-holding-nix-manual.png"/>
 <img height="700" src="nixos-dominos.png"/>
+<img height="700" src="girl-with-nix-shirt.png"/>
+<img height="700" src="shirayuki-holding-nixos.png"/>
 <img height="700" src="patch-santas-elfs.png"/>
 <img height="700" src="purer-than-your-waifu.png"/>

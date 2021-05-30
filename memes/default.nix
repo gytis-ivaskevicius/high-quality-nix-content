@@ -7,7 +7,7 @@ with creators; [
   { owner = mlvzk; image = ./nixos-shilling.png; }
   { owner = mlvzk; image = ./techy-kid.png; }
 
-  { owner = unknown; image = ./luka-nix-pervert.png; }
+  { owner = unknown; image = ./nagatoro-nix-pervert.png; }
   { owner = unknown; image = ./nix-programming-socks.png; }
   { owner = unknown; image = ./pinnacle-of-system-configuration.png; }
   { owner = unknown; image = ./random-repos.png; }

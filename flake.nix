@@ -5,13 +5,24 @@
 
   outputs = { self, nixpkgs }:
     let
+      inherit (builtins) baseNameOf concatStringsSep;
       owners = import ./owners.nix;
       emoji = import ./emoji { inherit owners; };
       anime = import ./anime { inherit owners; };
+
+      pkgs = nixpkgs.legacyPackages.x86_64-linux;
+
+      emojiImgs = map (it: ''<img src="${baseNameOf it.image}"/>'') emoji;
+      emojiMd = pkgs.writeText "emoji-readme.md" (concatStringsSep "\n" emojiImgs);
     in
     {
 
-      nixosModules = { inherit emoji anime; };
+      images = { inherit emoji anime; };
+
+      packages.x86_64-linux.build-markdown = pkgs.writeScriptBin "build-markdown" ''
+        cat ${emojiMd} > emoji/README.md
+      '';
+
 
     };
 }

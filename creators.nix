@@ -16,7 +16,7 @@
   unrooted = {
     email = "konrad.root.klawikowski@gmail.com";
     github = "unrooted";
-    name = "Konrad Klawikowsk";
+    name = "unrooted";
     githubId = 30440603;
   };
 

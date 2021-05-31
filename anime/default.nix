@@ -1,7 +1,7 @@
 { creators }:
 
 with creators; [
-  { owner = cirkku; image = ./anime-nix-pills-cover.png; }
+  { owner = cirkku; image = ./alice-margatroid-nix-pills-cover.png; }
   { owner = cirkku; image = ./cirno-holding-nix-sign.png; }
   { owner = cirkku; image = ./cirno-standing-on-balkony-nix-logo.png; }
   { owner = cirkku; image = ./cirno-teaches-marisa-nix.png; }
@@ -9,12 +9,11 @@ with creators; [
   { owner = cirkku; image = ./cirnos-logo.png; }
   { owner = cirkku; image = ./flandre-holds-fake-nix-pills.png; }
   { owner = cirkku; image = ./flandre-holds-nix-pills.png; }
-  { owner = cirkku; image = ./girl-holding-nix-manual.png; }
-  { owner = cirkku; image = ./nixos-dominos.png; }
+  { owner = cirkku; image = ./twgok-holding-nix-manual.png; }
 
-  { owner = unrooted; image = ./girl-with-nix-shirt.png; }
+  { owner = unrooted; image = ./riko-sakurauchi-with-nix-shirt.png; }
   { owner = unrooted; image = ./shirayuki-holding-nixos.png; }
 
   { owner = unknown; image = ./patch-santas-elfs.png; }
-  { owner = unknown; image = ./purer-than-your-waifu.png; }
+  { owner = unknown; image = ./mio-purer-than-your-waifu.png; }
 ]

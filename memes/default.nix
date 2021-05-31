@@ -1,6 +1,8 @@
 { creators }:
 
 with creators; [
+  { owner = cirkku; image = ./nixos-dominos.png; }
+
   { owner = unrooted; image = ./nagatoro-nix-pervert.png; }
   { owner = unrooted; image = ./nix-20min-adventure.png; }
   { owner = unrooted; image = ./nixenv-vs-nixshell.png; }

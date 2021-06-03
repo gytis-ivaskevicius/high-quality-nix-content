@@ -10,6 +10,8 @@ with creators; [
   { owner = mlvzk; image = ./nixos-shilling.png; }
   { owner = mlvzk; image = ./techy-kid.png; }
 
+  { owner = synthetica; image = ./superiority-complex.png; }
+
   { owner = unknown; image = ./nix-programming-socks.png; }
   { owner = unknown; image = ./pinnacle-of-system-configuration.png; }
   { owner = unknown; image = ./random-repos.png; }

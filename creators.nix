@@ -13,6 +13,13 @@
     githubId = 81242398;
   };
 
+  synthetica = {
+    email = "nix_but_now_its_memes@hilhorst.be";
+    github = "Synthetica9";
+    name = "Synthetica";
+    githubId = 7075751;
+  };
+
   unrooted = {
     email = "konrad.root.klawikowski@gmail.com";
     github = "unrooted";
@@ -22,7 +29,4 @@
 
   # Temp
   unknown = { };
-
-
-
 }

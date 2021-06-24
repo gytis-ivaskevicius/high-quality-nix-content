@@ -27,6 +27,13 @@
     githubId = 30440603;
   };
 
+  matthewcroughan = {
+    email = "matt@croughan.sh";
+    github = "matthewcroughan";
+    name = "Matthew Croughan";
+    githubId = 26458780;
+  };
+
   # Temp
   unknown = { };
 }

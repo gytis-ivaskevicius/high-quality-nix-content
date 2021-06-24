@@ -7,7 +7,7 @@
     let
       inherit (builtins) baseNameOf concatStringsSep;
       pkgs = nixpkgs.legacyPackages.x86_64-linux;
-      args = { authors = import ./authors.nix; };
+      args = { authors = import ./authors.nix { inherit (pkgs.lib) maintainers; }; };
 
       mkMarkdown = height: images:
         pkgs.writeText "images.md"

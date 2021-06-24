@@ -10,7 +10,7 @@
 
 <img height="700" src="techy-kid.png" alt="By mlvzk"/>
 
-<img height="700" src="superiority-complex.png" alt="By Synthetica"/>
+<img height="700" src="superiority-complex.png" alt="By Patrick Hilhorst"/>
 
 <img height="700" src="nix-programming-socks.png" alt="By unknown author"/>
 

@@ -1,6 +1,10 @@
 { authors }:
 
 with authors; [
+
+  { author = ant-arctica; source = ./sources/nix-owo.kra; image = ./nix-owo-transparent.png; }
+  { author = ant-arctica; source = ./sources/nix-owo.kra; image = ./nix-owo-white.png; }
+
   { author = mlvzk; image = ./angry-nix.gif; }
   { author = mlvzk; image = ./angry-nix.png; }
   { author = mlvzk; image = ./nix-chad.gif; }

@@ -1,20 +1,20 @@
-{ creators }:
+{ authors }:
 
-with creators; [
-  { owner = cirkku; image = ./nixos-dominos.png; }
+with authors; [
+  { author = cirkku; image = ./nixos-dominos.png; }
 
-  { owner = unrooted; image = ./nagatoro-nix-pervert.png; }
-  { owner = unrooted; image = ./nix-20min-adventure.png; }
-  { owner = unrooted; image = ./nixenv-vs-nixshell.png; }
+  { author = unrooted; image = ./nagatoro-nix-pervert.png; }
+  { author = unrooted; image = ./nix-20min-adventure.png; }
+  { author = unrooted; image = ./nixenv-vs-nixshell.png; }
 
-  { owner = mlvzk; image = ./nixos-shilling.png; }
-  { owner = mlvzk; image = ./techy-kid.png; }
+  { author = mlvzk; image = ./nixos-shilling.png; }
+  { author = mlvzk; image = ./techy-kid.png; }
 
-  { owner = synthetica; image = ./superiority-complex.png; }
+  { author = synthetica; image = ./superiority-complex.png; }
 
-  { owner = unknown; image = ./nix-programming-socks.png; }
-  { owner = unknown; image = ./pinnacle-of-system-configuration.png; }
-  { owner = unknown; image = ./random-repos.png; }
-  { owner = unknown; image = ./virgin-arch-vs-chad-nixos.png; }
-  { owner = matthewcroughan; image = ./eelco-nixpill.png; }
+  { author = unknown; image = ./nix-programming-socks.png; }
+  { author = unknown; image = ./pinnacle-of-system-configuration.png; }
+  { author = unknown; image = ./random-repos.png; }
+  { author = unknown; image = ./virgin-arch-vs-chad-nixos.png; }
+  { author = matthewcroughan; image = ./eelco-nixpill.png; }
 ]

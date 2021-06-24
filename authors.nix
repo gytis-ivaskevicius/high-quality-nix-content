@@ -35,5 +35,7 @@
   };
 
   # Temp
-  unknown = { };
+  unknown = {
+    name = "unknown author";
+  };
 }

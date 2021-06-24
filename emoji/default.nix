@@ -1,18 +1,18 @@
-{ creators }:
+{ authors }:
 
-with creators; [
-  { owner = mlvzk; image = ./angry-nix.gif; }
-  { owner = mlvzk; image = ./angry-nix.png; }
-  { owner = mlvzk; image = ./nix-chad.gif; }
-  { owner = mlvzk; image = ./nix-shooting.png; }
-  { owner = mlvzk; image = ./nixos-confetti.png; }
-  { owner = mlvzk; image = ./nixos-pleading.png; }
-  { owner = mlvzk; image = ./nixos-pure-by-design.png; }
-  { owner = mlvzk; image = ./nixos-thumbsup.png; }
-  { owner = mlvzk; image = ./pet-hot-nix.gif; }
-  { owner = mlvzk; image = ./pet-nix.gif; }
-  { owner = mlvzk; image = ./think-nixos.png; }
+with authors; [
+  { author = mlvzk; image = ./angry-nix.gif; }
+  { author = mlvzk; image = ./angry-nix.png; }
+  { author = mlvzk; image = ./nix-chad.gif; }
+  { author = mlvzk; image = ./nix-shooting.png; }
+  { author = mlvzk; image = ./nixos-confetti.png; }
+  { author = mlvzk; image = ./nixos-pleading.png; }
+  { author = mlvzk; image = ./nixos-pure-by-design.png; }
+  { author = mlvzk; image = ./nixos-thumbsup.png; }
+  { author = mlvzk; image = ./pet-hot-nix.gif; }
+  { author = mlvzk; image = ./pet-nix.gif; }
+  { author = mlvzk; image = ./think-nixos.png; }
 
-  { owner = unknown; image = ./parrot-nix.gif; }
-  { owner = unknown; image = ./roo-nix.webp; }
+  { author = unknown; image = ./parrot-nix.gif; }
+  { author = unknown; image = ./roo-nix.webp; }
 ]

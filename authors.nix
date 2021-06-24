@@ -5,7 +5,7 @@
     matthewcroughan
     mlvzk
     synthetica
-  ;
+    ;
 
   chunkypuffs = {
     # Guy from reddit, wishes to remain annoymous

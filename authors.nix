@@ -7,6 +7,12 @@
     synthetica
   ;
 
+  dramforever = {
+    email = "dramforever@live.com";
+    github = "dramforever";
+    name = "dramforever";
+  };
+
   cirkku = {
     email = "tuukka.t.korhonen@protonmail.com";
     github = "cirkku";

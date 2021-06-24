@@ -2,6 +2,8 @@
 
 <img height="300" src="nix-owo-white.png" alt="By ant-arctica"/>
 
+<img height="300" src="nix-snowflake-cute.png" alt="By dramforever"/>
+
 <img height="300" src="angry-nix.gif" alt="By mlvzk"/>
 
 <img height="300" src="angry-nix.png" alt="By mlvzk"/>

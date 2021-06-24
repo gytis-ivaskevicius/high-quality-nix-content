@@ -16,4 +16,5 @@ with creators; [
   { owner = unknown; image = ./pinnacle-of-system-configuration.png; }
   { owner = unknown; image = ./random-repos.png; }
   { owner = unknown; image = ./virgin-arch-vs-chad-nixos.png; }
+  { owner = matthewcroughan; image = ./eelco-nixpill.png; }
 ]

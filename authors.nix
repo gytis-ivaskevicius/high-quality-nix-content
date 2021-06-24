@@ -7,6 +7,11 @@
     synthetica
   ;
 
+  chunkypuffs = {
+    # Guy from reddit, wishes to remain annoymous
+    name = "_chunkypuffs_";
+  };
+
   hostyaa = {
     github = "hostyaa";
     githubId = 85361033;

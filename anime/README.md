@@ -18,10 +18,10 @@
 
 <img height="700" src="twgok-holding-nix-manual.png" alt="By cirkku"/>
 
-<img height="700" src="riko-sakurauchi-with-nix-shirt.png" alt="By unrooted"/>
-
-<img height="700" src="shirayuki-holding-nixos.png" alt="By unrooted"/>
-
 <img height="700" src="nix-guix-ram-rem.png" alt="By unknown author"/>
 
 <img height="700" src="patch-santas-elfs.png" alt="By unknown author"/>
+
+<img height="700" src="riko-sakurauchi-with-nix-shirt.png" alt="By unrooted"/>
+
+<img height="700" src="shirayuki-holding-nixos.png" alt="By unrooted"/>

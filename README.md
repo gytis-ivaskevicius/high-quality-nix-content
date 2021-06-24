@@ -1,4 +1,5 @@
 
+# High quality Nix content
 
 ### TODO:
 - Dump a bunch more content
@@ -6,3 +7,5 @@
 - Fill out the content owners
 - Build some sort of memes generator using FFmpeg or ImageMagick
 
+
+© Most images have [Nix logo](https://github.com/NixOS/nixos-artwork/tree/master/logo) which is designed by Tim Cuthbertson (@timbertson)

@@ -6,6 +6,8 @@
 
 <img height="700" src="nix-owo.png" alt="By ant-arctica"/>
 
+<img height="700" src="nix-dracula.png" alt="By hostyaa"/>
+
 <img height="700" src="cirno-nixos.png" alt="By unknown author"/>
 
 <img height="700" src="mio-purer-than-your-waifu.png" alt="By unknown author"/>

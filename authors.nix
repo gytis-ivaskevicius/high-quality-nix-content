@@ -7,10 +7,17 @@
     synthetica
   ;
 
+  hostyaa = {
+    github = "hostyaa";
+    githubId = 85361033;
+    name = "hostyaa";
+  };
+
   dramforever = {
     email = "dramforever@live.com";
     github = "dramforever";
     name = "dramforever";
+    githubId = 2818072;
   };
 
   cirkku = {

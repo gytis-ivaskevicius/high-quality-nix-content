@@ -57,6 +57,12 @@
     githubId = 74963360;
   };
 
+  unrooted = {
+    github = "pl-misuw";
+    name = "pl-misuw";
+    githubId = 60584931;
+  };
+
   # Temp
   unknown = {
     name = "unknown author";

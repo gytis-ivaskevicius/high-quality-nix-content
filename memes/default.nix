@@ -9,12 +9,19 @@ with authors; [
   { author = dramforever; image = ./nix-path-supports-urls.jpg; }
   { author = dramforever; image = ./virtualbox-starts-compiling.jpg; }
   { author = matthewcroughan; image = ./eelco-nixpill.png; }
+  { author = matthewcroughan; image = "./100%-declarative-arthur.png"; }
+  { author = matthewcroughan; image = ./do-not-get-mad.png; }
+  { author = matthewcroughan; image = ./eelco-prism.apng; }
+  { author = matthewcroughan; image = ./fleyks.png; }
+  { author = matthewcroughan; image = ./mobile-nixos.png; }
+  { author = nixinator; image = ./nix-vs-fhs.png; }
   { author = mlvzk; image = ./nixos-shilling.png; }
   { author = mlvzk; image = ./techy-kid.png; }
   { author = synthetica; image = ./superiority-complex.png; }
   { author = unknown; image = ./nix-programming-socks.png; }
   { author = unknown; image = ./pinnacle-of-system-configuration.png; }
   { author = unknown; image = ./virgin-arch-vs-chad-nixos.png; }
+  { author = unknown; image = ./thank-you-for-changing-my-life.png; }
   { author = unrooted; image = ./nagatoro-nix-pervert.png; }
   { author = unrooted; image = ./nix-20min-adventure.png; }
   { author = unrooted; image = ./nixenv-vs-nixshell.png; }

@@ -11,4 +11,5 @@ with authors; [
   { author = unknown; image = ./mio-purer-than-your-waifu.png; }
   { author = unknown; image = ./nix-azurlane-33-22.png; }
   { author = mbprtpmnr; image = ./nixos-declarative.jpg; }
+  { author = matthewcroughan; image = ./nix-brawndo-background-4k.png; }
 ]

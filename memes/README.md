@@ -8,7 +8,7 @@
 <img src="eelco-nixpill.png" alt="By Matthew Croughan"/>
 <img src="100%-declarative-arthur.png" alt="By Matthew Croughan"/>
 <img src="do-not-get-mad.png" alt="By Matthew Croughan"/>
-<img src="eelco-prism.mp4" alt="By Matthew Croughan"/>
+<img src="eelco-prism.apng" alt="By Matthew Croughan"/>
 <img src="fleyks.png" alt="By Matthew Croughan"/>
 <img src="mobile-nixos.png" alt="By Matthew Croughan"/>
 <img src="nix-vs-fhs.png" alt="By Rick Sanchez"/>

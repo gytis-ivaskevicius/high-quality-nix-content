@@ -8,3 +8,4 @@
 <img src="mio-purer-than-your-waifu.png" alt="By unknown author"/>
 <img src="nix-azurlane-33-22.png" alt="By unknown author"/>
 <img src="nixos-declarative.jpg" alt="By mbprtpmnr"/>
+<img src="nix-brawndo-background-4k.png" alt="By Matthew Croughan"/>

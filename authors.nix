@@ -5,6 +5,7 @@
     matthewcroughan
     mlvzk
     synthetica
+    nixinator
     ;
 
   papojari = {

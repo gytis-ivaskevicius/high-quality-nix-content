@@ -7,3 +7,4 @@
 <img src="cirno-nixos.png" alt="By unknown author"/>
 <img src="mio-purer-than-your-waifu.png" alt="By unknown author"/>
 <img src="nix-azurlane-33-22.png" alt="By unknown author"/>
+<img src="nixos-declarative.jpg" alt="By mbprtpmnr"/>

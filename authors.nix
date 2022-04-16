@@ -19,6 +19,22 @@
     name = "_chunkypuffs_";
   };
 
+  SEbbaDK = {
+    name = "u/SEbbaDK";
+  };
+
+  pily = {
+    name = "u/pily_";
+  };
+
+  binaryplease = {
+    name = "u/binaryplease";
+  };
+
+  makefoo = {
+    name = "u/makefoo";
+  };
+
   hostyaa = {
     github = "hostyaa";
     githubId = 85361033;
@@ -57,14 +73,14 @@
     name = "ant-arctica";
     githubId = 74963360;
   };
-  
+
   mbprtpmnr = {
     github = "mbprtpmnr";
     name = "mbprtpmnr";
     githubId = 88109321;
   };
 
-  unrooted = {
+  pl-misuw = {
     github = "pl-misuw";
     name = "pl-misuw";
     githubId = 60584931;

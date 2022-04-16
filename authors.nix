@@ -28,7 +28,9 @@
   };
 
   binaryplease = {
-    name = "u/binaryplease";
+    github = "pinpox";
+    githubId = 1719781;
+    name = "binaryplease";
   };
 
   makefoo = {

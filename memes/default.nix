@@ -35,4 +35,5 @@ with authors; [
   { author = unrooted; image = ./nagatoro-nix-pervert.png; }
   { author = unrooted; image = ./nix-20min-adventure.png; }
   { author = unrooted; image = ./nixenv-vs-nixshell.png; }
+  { author = unrooted; image = ./org-vs-com.png; }
 ]

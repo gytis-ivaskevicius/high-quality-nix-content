@@ -27,6 +27,7 @@ with authors; [
   { author = mlvzk; image = ./techy-kid.png; }
   { author = nixinator; image = ./nix-vs-fhs.png; }
   { author = pily; image = ./quick-install-nixos.webp; }
+  { author = r2r-dev; image = ./homer-nix-bush.gif; }
   { author = synthetica; image = ./superiority-complex.png; }
   { author = unknown; image = ./nix-programming-socks.png; }
   { author = unknown; image = ./pinnacle-of-system-configuration.png; }

@@ -24,6 +24,7 @@
 <img src="techy-kid.png" alt="By mlvzk"/>
 <img src="nix-vs-fhs.png" alt="By Rick Sanchez"/>
 <img src="quick-install-nixos.webp" alt="By u/pily_"/>
+<img src="homer-nix-bush.gif" alt="By r2r-dev"/>
 <img src="superiority-complex.png" alt="By Patrick Hilhorst"/>
 <img src="nix-programming-socks.png" alt="By unknown author"/>
 <img src="pinnacle-of-system-configuration.png" alt="By unknown author"/>

@@ -88,6 +88,12 @@
     githubId = 60584931;
   };
 
+  r2r-dev = {
+    github = "r2r-dev";
+    name = "r2r-dev";
+    githubId = 39031033;
+  };
+
   # Temp
   unknown = {
     name = "unknown author";

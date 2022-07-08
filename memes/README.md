@@ -15,6 +15,7 @@
 <img src="virtualbox-starts-compiling.jpg" alt="By dramforever"/>
 <img src="stop-using-nixos.webp" alt="By u/makefoo"/>
 <img src="config-not-entierly-declarative.png" alt="By Matthew Croughan"/>
+<img src="debian-and-arch-bad.png" alt="By Matthew Croughan"/>
 <img src="do-not-get-mad.png" alt="By Matthew Croughan"/>
 <img src="eelco-nixpill.png" alt="By Matthew Croughan"/>
 <img src="eelco-prism.apng" alt="By Matthew Croughan"/>

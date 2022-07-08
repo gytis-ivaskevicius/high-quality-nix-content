@@ -18,6 +18,7 @@ with authors; [
   { author = dramforever; image = ./virtualbox-starts-compiling.jpg; }
   { author = makefoo; image = ./stop-using-nixos.webp; }
   { author = matthewcroughan; image = ./config-not-entierly-declarative.png; }
+  { author = matthewcroughan; image = ./debian-and-arch-bad.png; }
   { author = matthewcroughan; image = ./do-not-get-mad.png; }
   { author = matthewcroughan; image = ./eelco-nixpill.png; }
   { author = matthewcroughan; image = ./eelco-prism.apng; }

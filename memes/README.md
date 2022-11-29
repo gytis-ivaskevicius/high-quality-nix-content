@@ -35,3 +35,4 @@
 <img src="nix-20min-adventure.png" alt="By unrooted"/>
 <img src="nixenv-vs-nixshell.png" alt="By unrooted"/>
 <img src="org-vs-com.png" alt="By unrooted"/>
+<img src="hermetic-tooling.jpg" alt="By unknown author"/>

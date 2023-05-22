@@ -21,6 +21,7 @@
 <img src="eelco-prism.apng" alt="By Matthew Croughan"/>
 <img src="fleyks.png" alt="By Matthew Croughan"/>
 <img src="mobile-nixos.png" alt="By Matthew Croughan"/>
+<img src="who-would-win.png" alt="By Matthew Croughan"/>
 <img src="nixos-shilling.png" alt="By mlvzk"/>
 <img src="techy-kid.png" alt="By mlvzk"/>
 <img src="nix-vs-fhs.png" alt="By Rick Sanchez"/>

@@ -24,6 +24,7 @@ with authors; [
   { author = matthewcroughan; image = ./eelco-prism.apng; }
   { author = matthewcroughan; image = ./fleyks.png; }
   { author = matthewcroughan; image = ./mobile-nixos.png; }
+  { author = matthewcroughan; image = ./who-would-win.png; }
   { author = mlvzk; image = ./nixos-shilling.png; }
   { author = mlvzk; image = ./techy-kid.png; }
   { author = nixinator; image = ./nix-vs-fhs.png; }

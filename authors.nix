@@ -33,10 +33,6 @@
     name = "binaryplease";
   };
 
-  makefoo = {
-    name = "u/makefoo";
-  };
-
   hostyaa = {
     github = "hostyaa";
     githubId = 85361033;
@@ -74,6 +70,12 @@
     github = "ant-arctica";
     name = "ant-arctica";
     githubId = 74963360;
+  };
+
+  makefu = {
+    github = "makefu";
+    name = "u/makefoo";
+    githubId = 60584931;
   };
 
   mbprtpmnr = {

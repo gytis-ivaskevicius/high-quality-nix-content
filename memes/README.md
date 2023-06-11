@@ -37,3 +37,9 @@
 <img src="nixenv-vs-nixshell.png" alt="By unrooted"/>
 <img src="org-vs-com.png" alt="By unrooted"/>
 <img src="hermetic-tooling.jpg" alt="By unknown author"/>
+<img src="nixos-at-home.jpg" alt="By u/makefoo"/>
+<img src="aarch64-joke.jpg" alt="By u/makefoo"/>
+<img src="dark-secret-nixpkgs.png" alt="By u/makefoo"/>
+<img src="electron.jpg" alt="By u/makefoo"/>
+<img src="pr-open.jpg" alt="By u/makefoo"/>
+<img src="stay-on-freenode.jpg" alt="By u/makefoo"/>

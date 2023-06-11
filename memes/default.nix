@@ -16,7 +16,7 @@ with authors; [
   { author = cirkku; image = ./nixos-dominos.png; }
   { author = dramforever; image = ./nix-path-supports-urls.jpg; }
   { author = dramforever; image = ./virtualbox-starts-compiling.jpg; }
-  { author = makefoo; image = ./stop-using-nixos.webp; }
+  { author = makefu; image = ./stop-using-nixos.webp; }
   { author = matthewcroughan; image = ./config-not-entierly-declarative.png; }
   { author = matthewcroughan; image = ./debian-and-arch-bad.png; }
   { author = matthewcroughan; image = ./do-not-get-mad.png; }
@@ -40,4 +40,10 @@ with authors; [
   { author = unrooted; image = ./nixenv-vs-nixshell.png; }
   { author = unrooted; image = ./org-vs-com.png; }
   { author = unknown; image = ./hermetic-tooling.jpg; }
+  { author = makefu; image = ./nixos-at-home.jpg; }
+  { author = makefu; image = ./aarch64-joke.jpg; }
+  { author = makefu; image = ./dark-secret-nixpkgs.png; }
+  { author = makefu; image = ./electron.jpg; }
+  { author = makefu; image = ./pr-open.jpg; }
+  { author = makefu; image = ./stay-on-freenode.jpg; }
 ]

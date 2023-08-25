@@ -46,4 +46,5 @@ with authors; [
   { author = makefu; image = ./electron.jpg; }
   { author = makefu; image = ./pr-open.jpg; }
   { author = makefu; image = ./stay-on-freenode.jpg; }
+  { author = matthewcroughan; image = ./they-dont-know-im-reproducible.png; }
 ]

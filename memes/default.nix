@@ -47,4 +47,5 @@ with authors; [
   { author = makefu; image = ./pr-open.jpg; }
   { author = makefu; image = ./stay-on-freenode.jpg; }
   { author = matthewcroughan; image = ./they-dont-know-im-reproducible.png; }
+  { author = djacu; image = ./nix-god.jpg; }
 ]

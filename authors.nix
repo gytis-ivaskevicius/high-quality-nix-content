@@ -8,6 +8,12 @@
     nixinator
     ;
 
+  djacu = {
+    name = "Daniel Baker";
+    github = "djacu";
+    githubId = 7043297;
+  };
+
   papojari = {
     name = "papojari";
     github = "papojari";

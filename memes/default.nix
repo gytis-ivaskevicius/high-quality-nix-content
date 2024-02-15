@@ -49,4 +49,5 @@ with authors; [
   { author = matthewcroughan; image = ./they-dont-know-im-reproducible.png; }
   { author = djacu; image = ./nix-god.jpg; }
   { author = djacu; image = ./flake-magic.png; }
+  { author = bbjubjub; image = ./flake-magic.png; }
 ]

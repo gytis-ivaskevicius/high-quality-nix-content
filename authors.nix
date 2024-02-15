@@ -2,6 +2,7 @@
 
 {
   inherit (maintainers)
+    bbjubjub
     matthewcroughan
     mlvzk
     synthetica

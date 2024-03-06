@@ -47,4 +47,4 @@
 <img src="they-dont-know-im-reproducible.png" alt="By Matthew Croughan"/>
 <img src="nix-god.jpg" alt="By Daniel Baker"/>
 <img src="flake-magic.png" alt="By Daniel Baker"/>
-<img src="averagenixfan.png" alt="By bbjubjub"/>
+<img src="averagenixfan.png" alt="By Julie B."/>

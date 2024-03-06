@@ -32,6 +32,7 @@
 <img src="pinnacle-of-system-configuration.png" alt="By unknown author"/>
 <img src="thank-you-for-changing-my-life.png" alt="By unknown author"/>
 <img src="virgin-arch-vs-chad-nixos.png" alt="By unknown author"/>
+<img src="heaviest-objects-in-the-universe.png" alt="By unknown author"/>
 <img src="nagatoro-nix-pervert.png" alt="By unrooted"/>
 <img src="nix-20min-adventure.png" alt="By unrooted"/>
 <img src="nixenv-vs-nixshell.png" alt="By unrooted"/>
@@ -46,4 +47,4 @@
 <img src="they-dont-know-im-reproducible.png" alt="By Matthew Croughan"/>
 <img src="nix-god.jpg" alt="By Daniel Baker"/>
 <img src="flake-magic.png" alt="By Daniel Baker"/>
-<img src="averagenixfan.png" alt="By bbjubjub"/>
+<img src="averagenixfan.png" alt="By Julie B."/>

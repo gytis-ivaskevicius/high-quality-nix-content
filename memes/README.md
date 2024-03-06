@@ -32,6 +32,7 @@
 <img src="pinnacle-of-system-configuration.png" alt="By unknown author"/>
 <img src="thank-you-for-changing-my-life.png" alt="By unknown author"/>
 <img src="virgin-arch-vs-chad-nixos.png" alt="By unknown author"/>
+<img src="heaviest-objects-in-the-universe.png" alt="By unknown author"/>
 <img src="nagatoro-nix-pervert.png" alt="By unrooted"/>
 <img src="nix-20min-adventure.png" alt="By unrooted"/>
 <img src="nixenv-vs-nixshell.png" alt="By unrooted"/>

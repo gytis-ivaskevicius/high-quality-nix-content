@@ -35,6 +35,7 @@ with authors; [
   { author = unknown; image = ./pinnacle-of-system-configuration.png; }
   { author = unknown; image = ./thank-you-for-changing-my-life.png; }
   { author = unknown; image = ./virgin-arch-vs-chad-nixos.png; }
+  { author = unknown; image = ./heaviest-objects-in-the-universe.png; }
   { author = unrooted; image = ./nagatoro-nix-pervert.png; }
   { author = unrooted; image = ./nix-20min-adventure.png; }
   { author = unrooted; image = ./nixenv-vs-nixshell.png; }

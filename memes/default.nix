@@ -51,4 +51,5 @@ with authors; [
   { author = djacu; image = ./nix-god.jpg; }
   { author = djacu; image = ./flake-magic.png; }
   { author = bbjubjub; image = ./averagenixfan.png; }
+  { author = davidnuon; image = ./legend-of-nixos.png; }
 ]

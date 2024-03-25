@@ -103,6 +103,12 @@
     githubId = 39031033;
   };
 
+  davidnuon = {
+    github = "davidnuon";
+    name = "davidnuon";
+    githubId = 477742;
+  };
+
   # Temp
   unknown = {
     name = "unknown author";

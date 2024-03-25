@@ -48,3 +48,4 @@
 <img src="nix-god.jpg" alt="By Daniel Baker"/>
 <img src="flake-magic.png" alt="By Daniel Baker"/>
 <img src="averagenixfan.png" alt="By Julie B."/>
+<img src="legend-of-nixos.png" alt="By davidnuon"/>

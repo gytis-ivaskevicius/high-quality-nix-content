@@ -109,6 +109,13 @@
     githubId = 477742;
   };
 
+  numinit = {
+    email = "me@numin.it";
+    github = "numinit";
+    githubId = 369111;
+    name = "Morgan Jones";
+  };
+
   # Temp
   unknown = {
     name = "unknown author";

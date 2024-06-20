@@ -19,6 +19,11 @@
                 else ''<img src="${baseNameOf it.image}" alt="By ${it.author.name}"/>''
               )
               images));
+
+      mkLinks = links:
+        pkgs.writeText "links.md"
+          (concatStringsSep "\n"
+            (map (it: "- [${it.title}](${it.link})") links));
     in
     {
 
@@ -27,12 +32,14 @@
         emojiMd = mkMarkdown 300 (import ./emoji args);
         memesMd = mkMarkdown null (import ./memes args);
         wallpapersMd = mkMarkdown null (import ./wallpapers args);
+        musicMd = mkLinks (import ./music args);
 
         build-markdown = pkgs.writeScriptBin "build-markdown" ''
           cd $(git rev-parse --show-toplevel)
           cat ${animeMd} > anime/README.md
           cat ${emojiMd} > emoji/README.md
           cat ${memesMd} > memes/README.md
+          cat ${musicMd} > music/README.md
           cat ${wallpapersMd} > wallpapers/README.md
         '';
       };

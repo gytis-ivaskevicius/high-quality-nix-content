@@ -49,3 +49,4 @@
 <img src="flake-magic.png" alt="By Daniel Baker"/>
 <img src="averagenixfan.png" alt="By Julie B."/>
 <img src="legend-of-nixos.png" alt="By davidnuon"/>
+<img src="mutabilitaet_nein_danke.svg" alt="By Florent Becker"/>

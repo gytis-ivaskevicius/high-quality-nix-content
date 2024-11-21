@@ -116,6 +116,10 @@
     name = "Morgan Jones";
   };
 
+  FlorentBecker = {
+    name = "Florent Becker";
+  };
+
   # Temp
   unknown = {
     name = "unknown author";

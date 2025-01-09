@@ -9,6 +9,8 @@ with authors; [
   { author = cirkku; image = ./cirnos-logo.png; }
   { author = cirkku; image = ./flandre-holds-fake-nix-pills.png; }
   { author = cirkku; image = ./flandre-holds-nix-pills.png; }
+  { author = witttccchhher; image = ./frieren_nix_pills.png; }
+  { author = witttccchhher; image = ./manga_nix_pills.png; }
   { author = cirkku; image = ./nix-guix-cirno-suika.jpg; }
   { author = cirkku; image = ./twgok-holding-nix-manual.png; }
   { author = unknown; image = ./nix-guix-ram-rem.png; }

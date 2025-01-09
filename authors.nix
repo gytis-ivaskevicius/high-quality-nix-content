@@ -121,6 +121,13 @@
     twitter = "typecraft_dev";
   };
 
+  witttccchhher = {
+    email = "somokill650@gmail.com";
+    github = "witttccchhher";
+    githubId = 192795928;
+    name = "Gregory Mihalkin";
+  };
+
   # Temp
   unknown = {
     name = "unknown author";

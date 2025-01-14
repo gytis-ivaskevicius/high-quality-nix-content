@@ -118,6 +118,7 @@
 
   typecraft = {
     name = "typecraft";
+    twitter = "typecraft_dev";
   };
 
   # Temp

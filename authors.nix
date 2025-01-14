@@ -116,6 +116,11 @@
     name = "Morgan Jones";
   };
 
+  typecraft = {
+    name = "typecraft";
+    twitter = "typecraft_dev";
+  };
+
   # Temp
   unknown = {
     name = "unknown author";

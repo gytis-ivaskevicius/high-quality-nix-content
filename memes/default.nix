@@ -52,4 +52,5 @@ with authors; [
   { author = djacu; image = ./flake-magic.png; }
   { author = bbjubjub; image = ./averagenixfan.png; }
   { author = davidnuon; image = ./legend-of-nixos.png; }
+  { author = typecraft; image = ./nixos-fixes-this.jpg; }
 ]

@@ -34,7 +34,7 @@
         wallpapersMd = mkMarkdown null (import ./wallpapers args);
         musicMd = mkLinks (import ./music args);
 
-        build-markdown = pkgs.writeScriptBin "build-markdown" ''
+        build-markdown = pkgs.writeShellScriptBin "build-markdown" ''
           cd $(git rev-parse --show-toplevel)
           cat ${animeMd} > anime/README.md
           cat ${emojiMd} > emoji/README.md

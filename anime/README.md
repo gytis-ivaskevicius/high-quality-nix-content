@@ -6,6 +6,8 @@
 <img src="cirnos-logo.png" alt="By cirkku"/>
 <img src="flandre-holds-fake-nix-pills.png" alt="By cirkku"/>
 <img src="flandre-holds-nix-pills.png" alt="By cirkku"/>
+<img src="frieren_nix_pills.png" alt="By Gregory Mihalkin"/>
+<img src="manga_nix_pills.png" alt="By Gregory Mihalkin"/>
 <img src="nix-guix-cirno-suika.jpg" alt="By cirkku"/>
 <img src="twgok-holding-nix-manual.png" alt="By cirkku"/>
 <img src="nix-guix-ram-rem.png" alt="By unknown author"/>

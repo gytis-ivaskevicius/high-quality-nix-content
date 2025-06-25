@@ -53,4 +53,5 @@ with authors; [
   { author = bbjubjub; image = ./averagenixfan.png; }
   { author = davidnuon; image = ./legend-of-nixos.png; }
   { author = typecraft; image = ./nixos-fixes-this.jpg; }
+  { author = djacu; image = ./nix-expression-language-armor.jpeg; }
 ]

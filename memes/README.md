@@ -50,3 +50,36 @@
 <img src="averagenixfan.png" alt="By Julie B."/>
 <img src="legend-of-nixos.png" alt="By davidnuon"/>
 <img src="nixos-fixes-this.jpg" alt="By typecraft"/>
+<img src="nix-expression-language-armor.jpeg" alt="By Daniel Baker"/>
+<img src="nixmms-004.jpg" alt="By unknown author"/>
+<img src="nixmms-007.jpg" alt="By unknown author"/>
+<img src="nixmms-009.jpg" alt="By unknown author"/>
+<img src="nixmms-019.jpg" alt="By unknown author"/>
+<img src="nixmms-020.jpg" alt="By unknown author"/>
+<img src="nixmms-052.jpg" alt="By unknown author"/>
+<img src="nixmms-056.jpg" alt="By unknown author"/>
+<img src="nixmms-060.jpg" alt="By unknown author"/>
+<img src="nixmms-084.jpg" alt="By unknown author"/>
+<img src="nixmms-085.jpg" alt="By unknown author"/>
+<img src="nixmms-107.jpg" alt="By unknown author"/>
+<img src="nixmms-112.jpg" alt="By unknown author"/>
+<img src="nixmms-118.jpg" alt="By unknown author"/>
+<img src="nixmms-119.jpg" alt="By unknown author"/>
+<img src="nixmms-123.jpg" alt="By unknown author"/>
+<img src="nixmms-125.jpg" alt="By unknown author"/>
+<img src="nixmms-126.jpg" alt="By unknown author"/>
+<img src="nixmms-207.jpg" alt="By unknown author"/>
+<img src="nixmms-221.jpg" alt="By unknown author"/>
+<img src="nixmms-240.jpg" alt="By unknown author"/>
+<img src="nixmms-262.jpg" alt="By unknown author"/>
+<img src="nixmms-325.jpg" alt="By unknown author"/>
+<img src="nixmms-335.jpg" alt="By unknown author"/>
+<img src="nixmms-354.jpg" alt="By unknown author"/>
+<img src="nixmms-366.jpg" alt="By unknown author"/>
+<img src="nixmms-411.jpg" alt="By unknown author"/>
+<img src="nixmms-418.jpg" alt="By unknown author"/>
+<img src="nixmms-432.jpg" alt="By unknown author"/>
+<img src="nixmms-437.jpg" alt="By unknown author"/>
+<img src="nixmms-439.jpg" alt="By unknown author"/>
+<img src="nixmms-441.jpg" alt="By unknown author"/>
+<img src="nixmms-472.jpg" alt="By unknown author"/>

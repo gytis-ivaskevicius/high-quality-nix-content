@@ -54,4 +54,36 @@ with authors; [
   { author = davidnuon; image = ./legend-of-nixos.png; }
   { author = typecraft; image = ./nixos-fixes-this.jpg; }
   { author = djacu; image = ./nix-expression-language-armor.jpeg; }
+  { author = unknown; image = ./nixmms-004.jpg; }
+  { author = unknown; image = ./nixmms-007.jpg; }
+  { author = unknown; image = ./nixmms-009.jpg; }
+  { author = unknown; image = ./nixmms-019.jpg; }
+  { author = unknown; image = ./nixmms-020.jpg; }
+  { author = unknown; image = ./nixmms-052.jpg; }
+  { author = unknown; image = ./nixmms-056.jpg; }
+  { author = unknown; image = ./nixmms-060.jpg; }
+  { author = unknown; image = ./nixmms-084.jpg; }
+  { author = unknown; image = ./nixmms-085.jpg; }
+  { author = unknown; image = ./nixmms-107.jpg; }
+  { author = unknown; image = ./nixmms-112.jpg; }
+  { author = unknown; image = ./nixmms-118.jpg; }
+  { author = unknown; image = ./nixmms-119.jpg; }
+  { author = unknown; image = ./nixmms-123.jpg; }
+  { author = unknown; image = ./nixmms-125.jpg; }
+  { author = unknown; image = ./nixmms-126.jpg; }
+  { author = unknown; image = ./nixmms-207.jpg; }
+  { author = unknown; image = ./nixmms-221.jpg; }
+  { author = unknown; image = ./nixmms-240.jpg; }
+  { author = unknown; image = ./nixmms-262.jpg; }
+  { author = unknown; image = ./nixmms-325.jpg; }
+  { author = unknown; image = ./nixmms-335.jpg; }
+  { author = unknown; image = ./nixmms-354.jpg; }
+  { author = unknown; image = ./nixmms-366.jpg; }
+  { author = unknown; image = ./nixmms-411.jpg; }
+  { author = unknown; image = ./nixmms-418.jpg; }
+  { author = unknown; image = ./nixmms-432.jpg; }
+  { author = unknown; image = ./nixmms-437.jpg; }
+  { author = unknown; image = ./nixmms-439.jpg; }
+  { author = unknown; image = ./nixmms-441.jpg; }
+  { author = unknown; image = ./nixmms-472.jpg; }
 ]

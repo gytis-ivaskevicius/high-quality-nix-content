@@ -94,4 +94,5 @@ with authors; [
   { author = unknown; image = ./nixmms-439.jpg; src = "https://t.me/nixmms/439"; }
   { author = unknown; image = ./nixmms-441.jpg; src = "https://t.me/nixmms/441"; }
   { author = unknown; image = ./nixmms-472.jpg; src = "https://t.me/nixmms/472"; }
+  { author = florentbecker; image = ./mutabilitaet_nein_danke.svg; }
 ]

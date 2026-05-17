@@ -91,3 +91,4 @@
 <img src="nixmms-439.jpg" alt="By unknown author"/>
 <img src="nixmms-441.jpg" alt="By unknown author"/>
 <img src="nixmms-472.jpg" alt="By unknown author"/>
+<img src="mutabilitaet_nein_danke.svg" alt="By Florent Becker"/>

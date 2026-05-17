@@ -152,6 +152,12 @@
     name = "baer (@baer@fedi.social)";
   };
 
+  florentbecker = {
+    name = "Florent Becker";
+    github = "FlorentBecker";
+    githubId = 7047019;
+  };
+
   # Temp
   unknown = {
     name = "unknown author";

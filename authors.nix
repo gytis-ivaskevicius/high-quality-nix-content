@@ -128,6 +128,30 @@
     name = "Gregory Mihalkin";
   };
 
+  sophronesis = {
+    github = "sophronesis";
+    githubId = 13190573;
+    name = "sophronesis";
+  };
+
+  lkmqdoge = {
+    github = "lkmqdoge";
+    githubId = 145366572;
+    name = "lkmqdoge";
+  };
+
+  JustNerfRaze = {
+    name = "u/JustNerfRaze";
+  };
+
+  femsci = {
+    name = "femsci (t.me/meowstradiol)";
+  };
+
+  baer = {
+    name = "baer (@baer@fedi.social)";
+  };
+
   # Temp
   unknown = {
     name = "unknown author";

@@ -19,6 +19,6 @@ with authors; [
   { author = unrooted; image = ./shirayuki-holding-nixos.png; }
   { author = unknown; image = ./nixmms-103.jpg; }
   { author = unknown; image = ./nixmms-106.jpg; }
-  { author = unknown; image = ./nixmms-113.jpg; }
+  { author = lkmqdoge; image = ./nixmms-113.jpg; }
   { author = unknown; image = ./nixmms-124.jpg; }
 ]

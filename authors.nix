@@ -3,9 +3,14 @@
 {
   inherit (maintainers)
     bbjubjub
-    matthewcroughan
     mlvzk
     ;
+
+  matthewcroughan = {
+    name = "Matthew Croughan";
+    github = "matthewcroughan";
+    githubId = 6064086;
+  };
 
   djacu = {
     name = "Daniel Baker";

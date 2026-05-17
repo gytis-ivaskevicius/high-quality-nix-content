@@ -59,6 +59,7 @@ with authors; [
   { author = unknown; image = ./nixmms-009.jpg; src = "https://t.me/nixmms/9"; }
   { author = unknown; image = ./nixmms-019.jpg; src = "https://t.me/nixmms/19"; }
   { author = unknown; image = ./nixmms-020.jpg; src = "https://t.me/nixmms/20"; }
+  { author = unknown; image = ./nixmms-023.jpg; src = "https://t.me/nixmms/23"; }
   { author = sophronesis; image = ./nixmms-052.jpg; src = "https://t.me/nixmms/52"; }
   { author = sophronesis; image = ./nixmms-056.jpg; src = "https://t.me/nixmms/56"; }
   { author = sophronesis; image = ./nixmms-060.jpg; src = "https://t.me/nixmms/60"; }

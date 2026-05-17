@@ -56,6 +56,7 @@
 <img src="nixmms-009.jpg" alt="By unknown author"/>
 <img src="nixmms-019.jpg" alt="By unknown author"/>
 <img src="nixmms-020.jpg" alt="By unknown author"/>
+<img src="nixmms-023.jpg" alt="By unknown author"/>
 <img src="nixmms-052.jpg" alt="By sophronesis"/>
 <img src="nixmms-056.jpg" alt="By sophronesis"/>
 <img src="nixmms-060.jpg" alt="By sophronesis"/>

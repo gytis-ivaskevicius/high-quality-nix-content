@@ -73,6 +73,7 @@ with authors; [
   { author = sophronesis; image = ./nixmms-123.jpg; src = "https://t.me/nixmms/123"; }
   { author = unknown; image = ./nixmms-125.jpg; src = "https://t.me/nixmms/125"; }
   { author = unknown; image = ./nixmms-126.jpg; src = "https://t.me/nixmms/126"; }
+  { author = unknown; image = ./nixmms-139.jpg; src = "https://t.me/nixmms/139"; }
   { author = unknown; image = ./nixmms-207.jpg; src = "https://t.me/nixmms/207"; }
   { author = femsci; image = ./nixmms-221.jpg; src = "https://t.me/nixmms/221"; }
   { author = unknown; image = ./nixmms-240.jpg; src = "https://t.me/nixmms/240"; }

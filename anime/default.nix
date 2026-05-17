@@ -17,4 +17,7 @@ with authors; [
   { author = unknown; image = ./patch-santas-elfs.png; }
   { author = unrooted; image = ./riko-sakurauchi-with-nix-shirt.png; }
   { author = unrooted; image = ./shirayuki-holding-nixos.png; }
+  { author = lkmqdoge; image = ./nixmms-113.jpg; src = "https://t.me/nixmms/113"; }
+  { author = unknown; image = ./nixmms-124.jpg; src = "https://t.me/nixmms/124"; }
+  { author = unknown; image = ./nixmms-471.jpg; src = "https://t.me/nixmms/471"; }
 ]

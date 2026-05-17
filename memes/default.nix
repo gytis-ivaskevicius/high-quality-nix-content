@@ -54,4 +54,44 @@ with authors; [
   { author = davidnuon; image = ./legend-of-nixos.png; }
   { author = typecraft; image = ./nixos-fixes-this.jpg; }
   { author = djacu; image = ./nix-expression-language-armor.jpeg; }
+  { author = unknown; image = ./nixmms-004.jpg; src = "https://t.me/nixmms/4"; }
+  { author = JustNerfRaze; image = ./nixmms-007.jpg; src = "https://www.reddit.com/r/NixOS/comments/1mvfceq/flakes_was_when_i_actually_realized_what_nixos_is/"; }
+  { author = unknown; image = ./nixmms-009.jpg; src = "https://t.me/nixmms/9"; }
+  { author = unknown; image = ./nixmms-019.jpg; src = "https://t.me/nixmms/19"; }
+  { author = unknown; image = ./nixmms-020.jpg; src = "https://t.me/nixmms/20"; }
+  { author = unknown; image = ./nixmms-023.jpg; src = "https://t.me/nixmms/23"; }
+  { author = sophronesis; image = ./nixmms-052.jpg; src = "https://t.me/nixmms/52"; }
+  { author = sophronesis; image = ./nixmms-054.jpg; src = "https://t.me/nixmms/54"; }
+  { author = sophronesis; image = ./nixmms-056.jpg; src = "https://t.me/nixmms/56"; }
+  { author = sophronesis; image = ./nixmms-060.jpg; src = "https://t.me/nixmms/60"; }
+  { author = unknown; image = ./nixmms-084.jpg; src = "https://t.me/nixmms/84"; }
+  { author = unknown; image = ./nixmms-085.jpg; src = "https://t.me/nixmms/85"; }
+  { author = unknown; image = ./nixmms-103.jpg; src = "https://t.me/nixmms/103"; }
+  { author = unknown; image = ./nixmms-106.jpg; src = "https://t.me/nixmms/106"; }
+  { author = unknown; image = ./nixmms-107.jpg; src = "https://t.me/nixmms/107"; }
+  { author = unknown; image = ./nixmms-112.jpg; src = "https://t.me/nixmms/112"; }
+  { author = unknown; image = ./nixmms-118.jpg; src = "https://t.me/nixmms/118"; }
+  { author = unknown; image = ./nixmms-119.jpg; src = "https://t.me/nixmms/119"; }
+  { author = sophronesis; image = ./nixmms-123.jpg; src = "https://t.me/nixmms/123"; }
+  { author = unknown; image = ./nixmms-125.jpg; src = "https://t.me/nixmms/125"; }
+  { author = unknown; image = ./nixmms-126.jpg; src = "https://t.me/nixmms/126"; }
+  { author = unknown; image = ./nixmms-139.jpg; src = "https://t.me/nixmms/139"; }
+  { author = unknown; image = ./nixmms-207.jpg; src = "https://t.me/nixmms/207"; }
+  { author = femsci; image = ./nixmms-221.jpg; src = "https://t.me/nixmms/221"; }
+  { author = unknown; image = ./nixmms-240.jpg; src = "https://t.me/nixmms/240"; }
+  { author = sophronesis; image = ./nixmms-246.jpg; src = "https://t.me/nixmms/246"; }
+  { author = unknown; image = ./nixmms-262.jpg; src = "https://t.me/nixmms/262"; }
+  { author = unknown; image = ./nixmms-311.jpg; src = "https://t.me/nixmms/311"; }
+  { author = unknown; image = ./nixmms-320.jpg; src = "https://t.me/nixmms/320"; }
+  { author = unknown; image = ./nixmms-325.jpg; src = "https://t.me/nixmms/325"; }
+  { author = unknown; image = ./nixmms-335.jpg; src = "https://t.me/nixmms/335"; }
+  { author = unknown; image = ./nixmms-354.jpg; src = "https://t.me/nixmms/354"; }
+  { author = unknown; image = ./nixmms-366.jpg; src = "https://t.me/nixmms/366"; }
+  { author = unknown; image = ./nixmms-411.jpg; src = "https://t.me/nixmms/411"; }
+  { author = baer; image = ./nixmms-418.jpg; src = "https://fedi.social/notes/alhrne3kgku81ra0"; }
+  { author = unknown; image = ./nixmms-432.jpg; src = "https://t.me/nixmms/432"; }
+  { author = unknown; image = ./nixmms-437.jpg; src = "https://t.me/nixmms/437"; }
+  { author = unknown; image = ./nixmms-439.jpg; src = "https://t.me/nixmms/439"; }
+  { author = unknown; image = ./nixmms-441.jpg; src = "https://t.me/nixmms/441"; }
+  { author = unknown; image = ./nixmms-472.jpg; src = "https://t.me/nixmms/472"; }
 ]

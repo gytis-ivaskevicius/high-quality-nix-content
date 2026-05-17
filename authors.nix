@@ -152,14 +152,14 @@
 
   synthetica = {
     name = "Patrick Hilhorst";
-    github = "synthetica";
-    githubId = 7671952;
+    github = "Synthetica9";
+    githubId = 7075751;
   };
 
   nixinator = {
     name = "Rick Sanchez";
     github = "nixinator";
-    githubId = 17919194;
+    githubId = 66913205;
   };
 
   florentbecker = {

@@ -92,4 +92,4 @@
 <img src="nixmms-441.jpg" alt="By unknown author"/>
 <img src="nixmms-472.jpg" alt="By unknown author"/>
 <img src="mutabilitaet_nein_danke.svg" alt="By Florent Becker"/>
-<img src="beware-the-system-types.png" alt="By matthewcroughan"/>
+<img src="beware-the-system-types.png" alt="By Matthew Croughan"/>

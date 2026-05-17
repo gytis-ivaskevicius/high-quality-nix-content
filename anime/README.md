@@ -14,7 +14,5 @@
 <img src="patch-santas-elfs.png" alt="By unknown author"/>
 <img src="riko-sakurauchi-with-nix-shirt.png" alt="By unrooted"/>
 <img src="shirayuki-holding-nixos.png" alt="By unrooted"/>
-<img src="nixmms-103.jpg" alt="By unknown author"/>
-<img src="nixmms-106.jpg" alt="By unknown author"/>
 <img src="nixmms-113.jpg" alt="By lkmqdoge"/>
 <img src="nixmms-124.jpg" alt="By unknown author"/>

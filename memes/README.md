@@ -61,6 +61,8 @@
 <img src="nixmms-060.jpg" alt="By sophronesis"/>
 <img src="nixmms-084.jpg" alt="By unknown author"/>
 <img src="nixmms-085.jpg" alt="By unknown author"/>
+<img src="nixmms-103.jpg" alt="By unknown author"/>
+<img src="nixmms-106.jpg" alt="By unknown author"/>
 <img src="nixmms-107.jpg" alt="By unknown author"/>
 <img src="nixmms-112.jpg" alt="By unknown author"/>
 <img src="nixmms-118.jpg" alt="By unknown author"/>

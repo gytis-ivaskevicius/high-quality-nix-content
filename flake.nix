@@ -23,7 +23,10 @@
       mkLinks = links:
         pkgs.writeText "links.md"
           (concatStringsSep "\n"
-            (map (it: "- [${it.title}](${it.link})") links));
+            (map (it:
+              if it ? link then "- [${it.title}](${it.link})"
+              else "- [${it.title}](./${baseNameOf it.file})"
+            ) links));
     in
     {
 

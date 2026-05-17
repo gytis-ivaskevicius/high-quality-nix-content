@@ -158,6 +158,12 @@
     githubId = 7047019;
   };
 
+  kreyren = {
+    name = "Kreyren";
+    github = "Kreyren";
+    githubId = 11302521;
+  };
+
   # Temp
   unknown = {
     name = "unknown author";

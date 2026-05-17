@@ -1,1 +1,2 @@
 - [Music to Derive From](https://suno.com/playlist/a5ad16a5-7f4f-480e-9ce3-18059570d5af)
+- [Nix God, Spittin' Code Like Fire!](./spitting_code_like_fire.mp4)

@@ -5,8 +5,6 @@
     bbjubjub
     matthewcroughan
     mlvzk
-    synthetica
-    nixinator
     ;
 
   djacu = {
@@ -150,6 +148,18 @@
 
   baer = {
     name = "baer (@baer@fedi.social)";
+  };
+
+  synthetica = {
+    name = "Patrick Hilhorst";
+    github = "synthetica";
+    githubId = 7671952;
+  };
+
+  nixinator = {
+    name = "Rick Sanchez";
+    github = "nixinator";
+    githubId = 17919194;
   };
 
   florentbecker = {

@@ -1,0 +1,22 @@
+name: Verify READMEs
+
+on: [push, pull_request]
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: DeterminateSystems/nix-installer-action@v4
+      - run: nix run .#build-markdown
+      - name: Check for uncommitted changes
+        run: |
+          if ! git diff --exit-code; then
+            echo "❌ READMEs are out of sync with default.nix entries."
+            echo "Run 'nix run .#build-markdown' and commit the result."
+            echo ""
+            echo "Full diff:"
+            git diff
+            exit 1
+          fi
+          echo "✅ All READMEs are in sync."

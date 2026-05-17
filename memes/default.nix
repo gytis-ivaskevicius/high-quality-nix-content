@@ -76,7 +76,10 @@ with authors; [
   { author = unknown; image = ./nixmms-207.jpg; src = "https://t.me/nixmms/207"; }
   { author = femsci; image = ./nixmms-221.jpg; src = "https://t.me/nixmms/221"; }
   { author = unknown; image = ./nixmms-240.jpg; src = "https://t.me/nixmms/240"; }
+  { author = unknown; image = ./nixmms-246.jpg; src = "https://t.me/nixmms/246"; }
   { author = unknown; image = ./nixmms-262.jpg; src = "https://t.me/nixmms/262"; }
+  { author = unknown; image = ./nixmms-311.jpg; src = "https://t.me/nixmms/311"; }
+  { author = unknown; image = ./nixmms-320.jpg; src = "https://t.me/nixmms/320"; }
   { author = unknown; image = ./nixmms-325.jpg; src = "https://t.me/nixmms/325"; }
   { author = unknown; image = ./nixmms-335.jpg; src = "https://t.me/nixmms/335"; }
   { author = unknown; image = ./nixmms-354.jpg; src = "https://t.me/nixmms/354"; }

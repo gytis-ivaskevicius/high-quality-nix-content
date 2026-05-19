@@ -4,7 +4,7 @@
 Welcome to the world of Nix/NixOS highest quality Nix content! This repository is dedicated to curating and sharing a delightful collection of visual content related to Nix and NixOS.
 
 ## About
-Explore and enjoy a carefully curated assortment of memes, emoji, and wallpapers that celebrate the Nix ecosystem. From humorous memes that capture various quirks to charming wallpapers that showcase the beauty of Nix, you'll find a diverse range of content that reflects the spirit of the Nix community.
+Explore and enjoy a carefully curated assortment of memes, emoji, art, and wallpapers that celebrate the Nix ecosystem. From humorous memes that capture various quirks to charming wallpapers that showcase the beauty of Nix, you'll find a diverse range of content that reflects the spirit of the Nix community.
 
 ## Contributing
 - Edit `{anime,emoji,memes,wallpapers}/default.nix` and add image to appropriate directory
